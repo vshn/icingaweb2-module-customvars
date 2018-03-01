@@ -1,0 +1,5 @@
+Module: customvars
+Version: 0.1.0
+Description: Icinga Custom Variables Module
+  Show custom variables for hosts.
+Depends: monitoring
